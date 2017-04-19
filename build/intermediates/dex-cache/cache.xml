@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_37a6fc039faa020e7c17f68a61acb9e5b2a2b17f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doron\.android\build-cache\ce7f1a9a16581de7bfda3a322dd371dbc302dc48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2b7ecd49fc30c5254e8a0dd4edc8b5dd6ab994a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a4739004af8bb30f41083c2453c28ba11d80bc7">
+        <dex dex="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_16cffcbbe3d096735228f8550f6abeafba743126\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Doron\.android\build-cache\8de76ccb9f6ec44534c8cbff27e1381325f0c33f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\pre-dexed\debug\classes_797125a83b72fa9f1c13fbdee92022c3ca96ca6e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doron\.android\build-cache\8de76ccb9f6ec44534c8cbff27e1381325f0c33f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_797125a83b72fa9f1c13fbdee92022c3ca96ca6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doron\.android\build-cache\c0322473a92505d1312a4a16deb2a17c16d5c5f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba69067ec8e2e564506f7d92d0d45460506dfc25\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Doron\.android\build-cache\c0322473a92505d1312a4a16deb2a17c16d5c5f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\pre-dexed\debug\classes_ba69067ec8e2e564506f7d92d0d45460506dfc25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Doron\.android\build-cache\ce7f1a9a16581de7bfda3a322dd371dbc302dc48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\Doron\AndroidStudioProjects\ex3\app\build\intermediates\pre-dexed\debug\classes_f2b7ecd49fc30c5254e8a0dd4edc8b5dd6ab994a.jar" />
+    </item>
+
+</items>
